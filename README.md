@@ -22,7 +22,13 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/hellogl2-ErvinLu/blob/master/device-2015-11-28-170646.png)
+
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/hellogl2-ErvinLu/blob/master/device-2015-11-28-170658.png)
+
+Video Capture
+-----------
+(https://youtu.be/jtLbdQc_QaU)
 
 Support
 -------
